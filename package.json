@@ -1,0 +1,17 @@
+{
+  "name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^11.1.0",
+    "rollup": "^3.20.4",
+    "rollup-plugin-minification": "^0.2.0",
+    "tslib": "^2.5.0"
+  }
+}
